@@ -11,7 +11,6 @@ These projects specifically focus on **unsupervised learning**, including:
 - Hierarchical Clustering
 - Principal Component Analysis (PCA)
 - DBSCAN
-- And more...
 
 > 💡 The purpose of this repository is to reinforce my learning and to share the implementation of key concepts with the community.
 
