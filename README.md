@@ -44,7 +44,6 @@ To run the notebooks:
    ```bash
    git clone https://github.com/Gaddiel05/Unsupervised_machine_learning_Projects.git
    cd Unsupervised_machine_learning_Projects
-2. Open with Jupyter
 
 ## 📬 Contact
 Feel free to connect or reach out:
